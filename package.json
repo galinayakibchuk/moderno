@@ -9,6 +9,7 @@
   "author": "Halyna Yakibchuk",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
@@ -17,6 +18,7 @@
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
+    "install": "^0.13.0",
     "ion-rangeslider": "^2.3.1",
     "magnific-popup": "^1.1.0",
     "mixitup": "^3.3.1",
